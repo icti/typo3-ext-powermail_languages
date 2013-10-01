@@ -1,0 +1,6 @@
+plugin.tx_powermail_languages {
+		settings {
+				# cat=powermail_languages//0010; type=text; label=Site language code 
+				lang = en
+		}
+}

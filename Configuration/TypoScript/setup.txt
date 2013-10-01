@@ -1,0 +1,5 @@
+page {
+	includeJSFooterlibs {
+		powermailJQueryFormValidationLanguage = EXT:powermail_languages/Resources/Public/Javascripts/languages/jquery.validationEngine-{$plugin.tx_powermail_languages.settings.lang}.js
+	}
+}
